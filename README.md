@@ -7,15 +7,15 @@ This Python program implements a Speed Typing Test using the curses library. It 
 ## Features
 
 - Displays a welcome screen and prompts the user to start the test.
-- 
+  
 - Loads a random line of text from `text.txt` for the typing test.
-- 
+  
 - Tracks and displays the user's typing accuracy and WPM in real-time.
-- 
+  
 - Allows the user to backspace and correct mistakes during the typing test.
-- 
+  
 - Ends the test when the user completes typing the entire line correctly.
-- 
+  
 - Supports an escape key (`ESC`) to exit the program at any time.
 
 ## Requirements
