@@ -21,7 +21,7 @@ This Python program implements a Speed Typing Test using the curses library. It 
 ## Requirements
 
 - Python 3.x
-- 
+
 - curses library (typically included in Python standard library)
 
 ## Usage
